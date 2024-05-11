@@ -6,17 +6,18 @@ Created on Sat May 11 12:45:23 2024
 """
 
 import pickle
+import numpy as np
 import streamlit as st
 from streamlit_option_menu import option_menu
 
 
 # Loading the saved models
 
-diabetes_model = pickle.load(open('diabetes_model.sav','rb'))
+diabetes_model = pickle.load(open('C:\Users\Harshit sharma\Desktop\Multiple_disease_prediction_system\diabetes_model.sav','rb'))
 
-heart_disease_model = pickle.load(open('heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('C:\Users\Harshit sharma\Desktop\Multiple_disease_prediction_system\heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('parkinsons_model.sav','rb'))
+parkinsons_model = pickle.load(open('C:\Users\Harshit sharma\Desktop\Multiple_disease_prediction_system\parkinsons_model.sav','rb'))
 
 
 
