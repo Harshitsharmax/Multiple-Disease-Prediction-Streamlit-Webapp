@@ -11,6 +11,12 @@ Parkinson's Disease Prediction: Predicts the presence of Parkinson's disease bas
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
+## Live Demo
+
+I have deployed the app using Streamlit. You can interact using the following link:
+
+[Multiple Disease Prediction App](https://multiple-disease-prediction-app-77.streamlit.app/)
+
 # Acknowledgements
 The machine learning models used in this project are based on publicly available datasets and have been trained using standard machine learning techniques.
 Special thanks to the Streamlit team for providing an easy-to-use framework for building interactive web applications with Python.
