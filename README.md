@@ -11,7 +11,7 @@ Parkinson's Disease Prediction: Predicts the presence of Parkinson's disease bas
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-## Live Demo
+# Live Demo
 
 I have deployed the app using Streamlit. You can interact using the following link:
 
